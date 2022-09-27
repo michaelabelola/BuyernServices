@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "springdoc.api-docs.path",
+      "type": "java.lang.String",
+      "description": "Description for springdoc.api-docs.path."
+    },
+    {
+      "name": "springdoc.swagger-ui.path",
+      "type": "java.lang.String",
+      "description": "Description for springdoc.swagger-ui.path."
+    },
+    {
+      "name": "storage.container.users",
+      "type": "java.lang.String",
+      "description": "Description for storage.container.users."
+    }
+  ] }

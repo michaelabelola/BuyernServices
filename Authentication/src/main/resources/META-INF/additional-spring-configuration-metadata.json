@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret."
+    },
+    {
+      "name": "spring.jpa.hibernate.naming.strategy",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.naming.strategy."
+    },
+    {
+      "name": "password.reset.token.ttl",
+      "type": "java.lang.String",
+      "description": "Description for password.reset.token.ttl."
+    },
+    {
+      "name": "user.access.token.ttl",
+      "type": "java.lang.String",
+      "description": "Description for user.access.token.ttl."
+    },
+    {
+      "name": "jwt.user.token.prefix",
+      "type": "java.lang.String",
+      "description": "Description for jwt.user.token.prefix."
+    },
+    {
+      "name": "jwt.user.token.header",
+      "type": "java.lang.String",
+      "description": "Description for jwt.user.token.header."
+    }
+  ] }
